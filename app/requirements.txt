@@ -1,0 +1,16 @@
+verity-sdk==0.4.3
+aiohttp==3.5.4
+pyqrcode==1.2.1
+pypng==0.0.20
+halo==0.0.29
+jinja2==2.11.2
+aiohttp_jinja2==1.4.2
+psycopg2
+gunicorn
+#Automation test dependencies#
+requests-2.25.1
+pytest =6.2.2
+pytest-bdd-4.0.2
+jsonpath = 0.82
+pytest-html=3.1.1
+
